@@ -1,0 +1,56 @@
+
+		body{
+			background:#850F8D ;
+		}
+		h1{
+			border-bottom: 2px solid white;
+			text-align: center;
+		}
+		.container{
+			background: #E49BFF;
+			margin: 0 auto;
+			width: 400px;
+			height: auto;
+			margin-top: 200px;
+			border-radius: 20px;
+			padding: 15px;
+			box-shadow: 4px 5px 6px #FCFFE0;
+
+		}
+		#taskInput{
+			background:#F8F9D7 ;
+			width: 250px;
+			height: auto;
+			padding: 15px;
+			border: 2px solid black;
+			border-radius: 10px;
+			margin-right: 30px;
+			
+		}
+		button{
+			background: #F1E5D1;
+			padding: 10px;
+			color: black;
+			border: 2px solid black;
+			border-radius: 5px;
+			
+
+		}
+		ul{
+			list-style: none;
+			padding: 15px;
+
+		}
+		li{
+			display: flex;
+			border: 2px solid white;
+			padding: 5px;
+			margin-bottom: 7px;
+			background: #CAE6B2;
+			border-radius: 8px;
+			justify-content: space-between;
+
+
+		}
+
+	
